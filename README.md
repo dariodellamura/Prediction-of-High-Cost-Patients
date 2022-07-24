@@ -1,4 +1,4 @@
-#Prediction-of-High-Cost-Patients
+# Prediction-of-High-Cost-Patients
 
 Prevedere i probabili costi futuri dell'assistenza sanitaria degli individui attraverso diversi gruppi sociali è una sfida informatica importante e stimolante. Per affrontare il problema del controllo dei costi sanitari, abbiamo recuperato i dati dal set di dati MEPS, che contiene informazioni generali e mediche su 2000 pazienti raccolti nel corso del 2003 negli Stati Uniti. Il lavoro proposto è stato svoltomediante l'utilizzo del tool di ML Knime.
 
